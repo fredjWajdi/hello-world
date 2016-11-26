@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+i'm wajdi.I love creating stuff!
